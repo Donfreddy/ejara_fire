@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955844867717",
+    "project_id": "ejarafire",
+    "storage_bucket": "ejarafire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955844867717:android:e15fc3019b5f9944eedbec",
+        "android_client_info": {
+          "package_name": "com.dfreddy.ejara_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955844867717-5v5esbkkv065hhegbou56pf5vsk35bqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyIdTOCX-uTODvWIVX7hrZj4QzdvDWQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955844867717-5v5esbkkv065hhegbou56pf5vsk35bqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
